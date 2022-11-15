@@ -1,0 +1,25 @@
+Question 1: What do you see in the browser?
+  When you open another tab and perform a click/drag action, what happens?
+Answer: We see a bunny. When we open another tab and perform a click/drag action,
+        the bunny moves in both the tabs.
+
+Question 2: What are some of the differences between TypeScript and JavaScript?
+Answer: TypeScript is a superset of JavaScript. It is a typed superset of JavaScript
+        that compiles to plain JavaScript. TypeScript adds optional static typing to
+        the language.
+
+
+Question 3: Why is a web application bundler (Parcel, Webpack, Rollup, etc.) useful for modern web projects? What are some features that ParcelJS provides?
+Answer: A web application bundler is useful for modern web projects because it
+        allows us to bundle our code into a single file. ParcelJS provides features
+        such as automatic code splitting, hot module replacement, and tree shaking.
+
+Question 4: What are the different values for the readyState a WebSocket can be in? Briefly describe what each state means. (Hint: check out the Mozilla WebSocket API)
+Answer: The different values for the readyState a WebSocket can be in are CONNECTING,
+        OPEN, CLOSING, and CLOSED. CONNECTING means that the connection is not yet
+        open. OPEN means that the connection is open and ready to communicate. CLOSING
+        means that the connection is in the process of closing. CLOSED means that the
+        connection is closed or couldn't be opened.
+
+Question 5: What's the link to your github repo?
+Answer: https://github.com/adit333/nodejs-ws-lab
